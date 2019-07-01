@@ -5,3 +5,7 @@ description: img upload
 thumbnail: /img/the-three-musketeers.jpg
 ---
 featured image appears...?
+
+editing...
+
+changing stuff
