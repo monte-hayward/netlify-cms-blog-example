@@ -14,5 +14,3 @@ const foo = 'some javascript code here';
 ```
 
 > and a quote string
-
-change some text
